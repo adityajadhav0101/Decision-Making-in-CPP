@@ -6,7 +6,7 @@ To explore key decision-making structures in C++—including if-else, if-else-if
 
 **📚 Theory**
 
-🔹 Conditional statements control the flow of execution based on evaluated conditions, allowing for dynamic and flexible logic handling.
+🔹 Conditional statements control the flow of execution based on evaluated conditions, allowing for dynamic and flexible logic handling.<br>
 🔹 These constructs are crucial for enabling programs to “think” and respond to input or state variations.
 
 **🔄 If-Else Statement**
